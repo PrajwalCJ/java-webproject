@@ -1,0 +1,20 @@
+.menu{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.menu-category{
+    margin:1em;
+    padding: 3em;
+    border: solid grey 1px;
+    border-radius: 10px;
+}
+
+.grill-items{
+    display: none;
+    margin: 1em;
+    padding: 3em;
+    border: solid grey 1px;
+    border-radius: 10px;
+}
+

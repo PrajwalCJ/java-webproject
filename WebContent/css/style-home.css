@@ -1,0 +1,17 @@
+.menu{
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: center;
+}
+
+.menu-category{
+    margin:1em;
+    width: 450px;
+    height: 450px;
+}
+
+.menu-category h2{
+    padding: 5px;
+    background: rgba(245, 222, 188, 0.7);
+    text-align: center;
+}
